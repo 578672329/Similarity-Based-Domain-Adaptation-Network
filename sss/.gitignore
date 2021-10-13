@@ -1,0 +1,6 @@
+*pyc
+*.jpg
+*.png
+*pth
+*ckpt
+*.zip
