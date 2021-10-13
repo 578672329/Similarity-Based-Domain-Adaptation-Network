@@ -1,1 +1,1 @@
-# Similarity-Based-Domain-Adaptation
+# Similarity-Based-Adaptation-Network
